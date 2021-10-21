@@ -13,7 +13,5 @@ Use your new HTML knowledge to create the underlying structure of the blog. Make
 </p>
 <br>
 <br>
-<h3>The website completed: </h3>
-<br>
 
 <img src="FashionBlog.jpeg" alt="Fashion Blog Website">
