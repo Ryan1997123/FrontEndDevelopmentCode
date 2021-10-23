@@ -20,6 +20,6 @@ It’s time to create a blog to show off how amazing the Big Apple is.</p><br>
  </p>
   <h3>Website Snapshots</h3>
     
-  <img src="pic1.JPG" alt="" height="500" width="500">
-  <img src="pic2.JPG" alt="" height="500" width="500">
-  <img src="pic3.JPG" alt="" height="500" width="500">
+  <img src="pic1.JPG" alt="" height="500" width="700">
+  <img src="pic2.JPG" alt="" height="500" width="700">
+  <img src="pic3.JPG" alt="" height="500" width="700">
