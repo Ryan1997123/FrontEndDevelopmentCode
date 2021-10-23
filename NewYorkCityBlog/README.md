@@ -3,7 +3,7 @@
 It’s time to create a blog to show off how amazing the Big Apple is.</p><br>
 
 
-<p>Practice using:</p>
+<p>Practice using:
   <ul>
     <li>Audio</li>
     <li>Video</li>
@@ -17,9 +17,9 @@ It’s time to create a blog to show off how amazing the Big Apple is.</p><br>
     <li>Article</li>
     <li>Aside</li>
   </ul>
+ </p>
+  <h3>Website Snapshots</h3>
     
-    <h3>Website Snapshots</h3>
-    
-    <img src="pic1.JPG" alt="" height="500" width="500">
-    <img src="pic2.JPG" alt="" height="500" width="500">
-    <img src="pic3.JPG" alt="" height="500" width="500">
+  <img src="pic1.JPG" alt="" height="500" width="500">
+  <img src="pic2.JPG" alt="" height="500" width="500">
+  <img src="pic3.JPG" alt="" height="500" width="500">
