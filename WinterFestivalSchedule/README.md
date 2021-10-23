@@ -7,4 +7,4 @@ The Aguillar Family is hosting their annual wine festival and they have asked yo
 </p>
 
 <h3>Final Webpage: </h3>
-<img src="WinterFestival.JPG" alt="Winter Festival Schedule Webpage Image" height="500" width="500"
+<img src="WinterFestival.JPG" alt="Winter Festival Schedule Webpage Image" height="500" width="500">
