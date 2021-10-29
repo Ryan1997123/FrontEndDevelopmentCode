@@ -17,3 +17,4 @@ The page is almost ready to be published. I will be making the following color-r
 <br>
 <h3>Sneak peak of the website: </h3>
   <img src="PaintStoreImage.JPG" alt="" height="500px" width="500px">
+    <img src="PaintStoreImageTwo.JPG" alt="" height="500px" width="500px">
