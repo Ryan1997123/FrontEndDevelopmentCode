@@ -8,4 +8,7 @@ Using my understanding of typography, I am tasked to help Aoife Conleavy improve
 </p>
 <br>
 <h3>What the final website looks like with updated typography:</h3>
-<img src="tidefalone.jpg" alt="" height="500px" width="500px">
+<img src="tidebladeone.JPG" alt="" height="500px" width="700px">
+<img src="tidebladetwo.JPG" alt="" height="500px" width="700px">
+<img src="tidebladethree.JPG" alt="" height="500px" width="700px">
+
