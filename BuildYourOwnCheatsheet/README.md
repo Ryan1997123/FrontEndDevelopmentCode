@@ -9,7 +9,7 @@ This project is slightly different than others I have encountered thus far on Co
 <h3>Project Goals</h3>
 <p>
 My project should document at least one HTML or CSS topic. 
-In Codecademy example project, we documented the tags and attributes used in HTML tables layouts, but you can choose any HTML or CSS topic that you’ve learned so far—the sky is the limit!
+In Codecademy example project, I documented the tags and attributes used in HTML tables layouts, but Ican choose any HTML or CSS topic that I’ve learned so far.
 
 
 <h3>Possible topics could be:</h3>
