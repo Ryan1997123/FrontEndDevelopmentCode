@@ -1,0 +1,120 @@
+h3 {
+  text-align: center;
+  align-self: top;
+  padding-top: 0%;
+  font-family: "Irish Grover", cursive;
+  margin-bottom: 90px;
+}
+
+h1 {
+  text-align: center;
+  vertical-align: top;
+  font-family: "Irish Grover", cursive;
+  background-color: rgba(255, 0, 0, 0.616);
+  padding: 0.5em;
+  margin: 0.5em;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ol li {
+  margin: 5px;
+  border: 5px;
+  padding: 5px;
+}
+
+a {
+  color: rgb(27, 209, 233);
+}
+
+nav {
+  display: block;
+}
+
+p,
+li {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+ul li {
+  display: inline-flex;
+  background-color: rgba(42, 86, 231, 0.616);
+  margin: 10em 2%;
+  padding: 2%;
+  position: relative;
+  left: 340px;
+  border: solid;
+  bottom: 165px;
+  width: auto;
+}
+
+body {
+  background-image: url("coolBG.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#tablesIntroHeader {
+  padding: 1em;
+  margin: 1em;
+  font-size: 30px;
+}
+
+#tablesIntroParagraph {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#tablesIntro {
+  border: solid;
+  background-color: rgba(30, 145, 211, 0.616);
+  padding: 4em;
+  margin: 3em;
+}
+
+#whenNotToUseTable {
+  border: solid;
+  padding: 4em;
+  margin: 3em;
+  font-size: larger;
+  background-color: rgba(255, 145, 0, 0.717);
+}
+
+#howToMakeTable {
+  border: solid;
+  padding: 4em;
+  margin: 3em;
+  font-size: larger;
+  background-color: rgba(195, 0, 255, 0.616);
+}
+
+img {
+  padding: 1em;
+  border: 1em;
+  margin: 1em;
+}
+
+figcaption {
+  text-align: center;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 1.5em;
+}
+
+footer {
+  background-color: rgba(46, 145, 211, 0.616);
+  border: 1.2em;
+  margin: 1.2em;
+  padding: 1.2em;
+  text-align: center;
+}
+
+#moveExampleOfMyTable {
+  padding: 4em;
+  margin: 3em;
+  font-size: larger;
+  background-color: rgba(0, 255, 106, 0.616);
+}
