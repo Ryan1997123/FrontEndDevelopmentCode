@@ -11,10 +11,11 @@
   When applying colors to the page, make sure you select a dominant color with additional supporting colors that provide structure to the design.</p>
 
   <p>When changing the colors within my code, I will use either hexadecimal, RGB, or HSL values.</p>
+  <br>
   
   
-  <h3>The Website Live:</h3>
-  <img src="journeyAroundTheWorld1.JPG" alt="" width=500 height=450>
+  <h3>The Website Live (sneak peek):</h3>
+  <img src="journeyAroundTheWorld1.JPG" alt="" width=600 height=500>
   
   
 
