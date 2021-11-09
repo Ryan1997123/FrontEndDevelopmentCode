@@ -1,0 +1,228 @@
+<!--
+
+Step 1:
+Before you begin to add colors to the site, you must first choose a color scheme to follow.
+
+As we reviewed in the lesson, there are multiple color schemes to select from:
+
+Monochromatic,
+Complementary
+Analogous
+Triadic
+You’ll need to determine your scheme and select a dominant color followed by supporting colors to accent your page design.
+
+Use can use Adobe Color CC to help generate color schemes if you want help for inspiration.
+
+
+Step 2:
+Once you determine your color scheme, it’s important to update the color of the text across the page to ensure the contrast is well defined.
+
+Remember to use colors opposite of each other when setting your text color. If you have a darker background color, use a light colored text. And vice versa.
+
+
+***MY COMPLEMENTARY COLOR SCHEME: 
+1)#899428
+2)#F2FF78
+3)#D3E053
+4)#5F1994
+5)#A456E0
+
+
+
+Step 3:
+Using your dominant color from your selected scheme, find and replace the background color of the .photo-hero class.
+
+Applying this color should help in determining the hierarchy and a focal point for the user when they land on your page.
+
+
+Step 4:
+Next, we want to apply some color contrast within the type of the hero section of the website. By doing so, it will help emphasize one single word and add a small hint of color.
+
+You can do so by replacing the text color of the span nested in the main <h1> tag to the accent color you’ve selected.
+
+
+Step 5:
+
+To help the user navigate through the web page, you can add some separation between sections by applying color backgrounds.
+
+To do this, change the background color of the blockquote section to that of the accent color you’ve selected or one of your other supporting colors.
+
+Keep in mind the contrast of the type when applying this background color to ensure the text is legible.
+
+
+
+Step 6:
+Within the blockquote section of your website, let’s update the citation of the testimonial so the text color isn’t as monotonous.
+
+Find and replace the color of the <footer> text within this section to a tint of your accent color. This will ensure the text is legible while providing some contrast between the quote color and the background itself.
+
+
+Step 7:
+Right now, our page is coming together. However, the .photo-about section feels a little bland. While we don’t want to apply a color background as to not overwhelm the user with too many colors in sections, we can add some subtle changes to the text to help improve the overall design.
+
+One of the easiest ways to do this is by changing the color of the <h2> tag to another color within your color scheme.
+
+Choose a color from your palette and apply it to this element.
+
+
+Step 8:
+As you’ve noticed, we developed a pattern for our section backgrounds. Now that we’ve reached the .photo-contact section, it’s time to apply another background color.
+
+The section above it is white, so this should use one of the colors within your color scheme. Update the background color to one of your colors defined in the color scheme to test and determine if it flows nicely in the design.
+
+
+Step 9:
+Our contact section is taking shape now. However, we need to make sure users understand how to use and fill out the form elements within the page.
+
+The <input> and <textarea> backgrounds can either be white or a darker shade of the background color to ensure the user knows they can select and input their information.
+
+If you select white as the background color, you will also need to update the color of the text to ensure it is legible as the user begins to fill out the form.
+
+Be sure to apply the same background color to both the <input> and <textarea> elements to keep all form elements consistent.
+
+
+
+Step 10:
+Now our site is looking great!
+
+The last part of our website that needs updating is the <footer>.
+
+We should provide a solid foundation for the bottom of the site, and we can do so by updating the background color while ensuring the color of the type appears readable.
+
+
+
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Codecademy | Journey Around the World</title>
+
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1 user-scalable=no">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Playfair+Display:400,900" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel='stylesheet' type='text/css' href='style.css'>
+</head>
+<body>
+  <!-- Site Header -->
+  <section role="region" class="photo-hero">
+    <header role="banner" aria-label="site navigation" class="header">
+      <!-- Site Navigation -->
+      <nav role="navigation" class="site-navigation">
+        <ul class="site-header-left">
+          <li>
+            <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/photo-logo.svg" alt="Jared Morgan" />
+          </li>
+        </ul>
+        <ul class="site-header-right">
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="container">
+      <div class="photo-hero-text">
+        <h1>Journey Around the <span>World</span></h1>
+        <p>Hello, I'm Jared Morgan. I'm an avid photographer who loves to travel and capture the beauty I'm blessed to witness with my camera.</p>
+        <a href="#" class="button button-primary">View My Work</a>
+      </div>
+    </div>
+  </section>
+  <!-- Site Main Content -->
+  <main role="main">
+    <!-- PHOTO GRID -->
+    <section role="region" aria-label="photo-grid" class="photo-grid">
+      <div class="container">
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-1.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-2.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-3.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-4.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-5.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-6.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-7.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-8.jpg" />
+        </div>
+        <div class="image-box">
+          <img src="https://content.codecademy.com/programs/ui-design/journey_around_the_world/image-box-9.jpg" />
+        </div>
+      </div>
+    </section>
+
+    <!-- BLOCKQUOTE -->
+    <section role="region" class="photo-blockquote">
+      <div class="container">
+        <blockquote>
+          <p>Jared takes incredible & stunning photos. Im always in awe of his travels, yet feel transported to his location with every snapshot he publishes.</p>
+          <footer>&mdash; Sandy Cohen</footer>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- ABOUT ME -->
+    <section role="region" class="photo-about">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et turpis in ex pellentesque tempus a et risus. Ut at mollis ipsum, sit amet imperdiet libero. Phasellus viverra neque sit amet sem maximus, a egestas mi convallis. Mauris felis elit, iaculis non magna nec, placerat ullamcorper nunc. Etiam rutrum urna erat, eget vehicula nibh finibus laoreet. Fusce accumsan ligula et arcu faucibus, eu aliquam justo congue. Nullam at nisi nec arcu posuere tristique eget id orci. Vestibulum tincidunt et neque sit amet lacinia.</p>
+        <p>Nunc eget arcu quis mauris dapibus commodo. Maecenas nec eros sed leo aliquam gravida eget vel nisl. Phasellus justo dolor, eleifend a velit eu, pretium ultricies mi. Curabitur ut ornare lorem. Pellentesque nec dui ultricies, sodales orci vitae, placerat purus. Sed at odio ipsum. Duis vitae velit at lorem varius iaculis eget at diam. Nulla non pharetra nibh.</p>
+        <p>Sed vitae tincidunt nulla. Vestibulum malesuada augue a est molestie auctor eget ac velit. Cras quam justo, semper ac orci non, ornare commodo odio. Vestibulum odio dolor, sollicitudin et lorem nec, dictum vulputate neque. In vel ipsum iaculis felis dapibus gravida. Morbi condimentum, ligula ac egestas fermentum, mauris neque auctor diam, eu semper ante dolor nec metus. Nam eget tincidunt leo. Duis blandit varius massa ut ultricies. Aenean est neque, elementum ut pulvinar sit amet, accumsan sit amet lacus. Suspendisse sed suscipit turpis. Etiam vestibulum sem sit amet sollicitudin pulvinar. Mauris libero lorem, fringilla et tortor quis, gravida aliquam lectus. Nunc aliquet sodales mauris quis eleifend. Integer aliquam est in quam pellentesque tristique. Aenean lobortis pharetra est sit amet luctus.	</p>
+      </div>
+    </section>
+
+    <!-- CONTACT ME -->
+    <section role="region" class="photo-contact">
+      <div class="container">
+        <h2>Contact Me</h2>
+        <p>Are you looking for a skilled photographer to capture your family, special day, or make professional headshots? Then look no further.</p>
+        <form class="photo-contact-form">
+          <input type="name" placeholder="Full Name">
+          <input type="email" placeholder="Email Address">
+          <input type="phone" placeholder="Phone Number">
+          <input type="text" placeholder="Requested Date">
+          <textarea placeholder="Something"></textarea>
+          <button type="submit" class="button button-primary">Send Request</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+
+  <!-- Site Footer -->
+  <footer role="contentinfo" class="footer clearfix">
+    <!-- Site Footer Nav -->
+    <nav role="navigation" class="footer-navigation">
+      <ul>
+        <li>
+          Copyright &copy; 2017. Jared Morgan. All Rights Reserved.
+        </li>
+      </ul>
+    </nav>
+  </footer>
+</body>
+</html>
