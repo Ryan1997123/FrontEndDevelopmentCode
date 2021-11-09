@@ -1,7 +1,7 @@
 <body>
   <h1>Journey Around the World - Practicing Color Theory  </h1>
   
- <p>In this project, you will use the knowledge you gained on color theory and apply it to a simple web page. 
+ <p>In this project, I will use the knowledge I gained on color theory and apply it to a simple web page. 
    I will take an existing grayscale website, select a color scheme, and apply the colors to various elements and sections within the design.</p>
 
  <p>This means I will need to consider how to select my color scheme, adhere to proper contrast of elements, 
