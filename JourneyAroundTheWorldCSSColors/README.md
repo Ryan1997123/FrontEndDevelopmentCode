@@ -14,7 +14,7 @@
   
   
   <h3>The Website Live:</h3>
-  <img src="journeyaroundtheworld.JPG" alt="" width=500 height=450>
+  <img src="journeyAroundTheWorld.JPG" alt="" width=500 height=450>
   
   
 
