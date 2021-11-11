@@ -7,8 +7,10 @@ I will take an existing grayscale website and apply colors to various elements a
 <p> This means I will need to consider which elements need to be updated based on providing the user with enough information to continue adding their information to complete their checkout process.</p>
 
 <p> Also important to use colors that will help them make the right decisions and provide feedback they can adequately act on.</p>
+<br>
+<br>
 
 
-
-<img src="pinPointWebsite.JPG" alt="" width=500px height=500px>
+<h3>Preview of the website live</h3> 
+<img src="pinPointWebsite.JPG" alt="" width=600px height=500px>
 </body>
