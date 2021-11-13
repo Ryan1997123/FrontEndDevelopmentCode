@@ -8,6 +8,7 @@
 <br>
 <br>
 <h3> Snapshot of the website live:</h3>
-<img src="ReelGoodReviews.JPG" alt="" height=500px width=500px>
+<img src="ReelGoodReviews.JPG" alt="" height=540px width=540px>
+<img src="ReelGoodReviews2.JPG" alt="" height=540px width=540px>
 
 </body>
