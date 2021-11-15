@@ -1,7 +1,7 @@
 <body>
   <h1>FreshDeals: Blueberries  </h1>
 
-  <h3>This project is from Codecademy's "Learn Secondary Navigation" second in the Front-End Engineering Course.</h3>
+  <h3>This project is from Codecademy's "Learn Secondary Navigation" section in the Front-End Engineering Course.</h3>
   
  <p>In the browser to the right, there is a site for buying groceries. The currently selected product is “Organic Blueberries”. If you landed on this page, one may have some questions.</p>
 
