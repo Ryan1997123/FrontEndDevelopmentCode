@@ -1,0 +1,38 @@
+.breadcrumb li {
+  display: inline-block;
+}
+
+.breadcrumb li.location + li.location::before {
+  content: "/ ";
+}
+
+.breadcrumb {
+  vertical-align: middle;
+  position: relative;
+  padding-left: 30%;
+}
+
+.breadcrumb li a:hover {
+  background-color: green;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.breadcrumb li.attribute a {
+  color: gray;
+  padding: 0px 4px 0px 1px;
+}
+
+.breadcrumb li.attribute::after {
+  content: "x";
+  color: red;
+  font-size: 10px;
+  vertical-align: super;
+}
+
+.breadcrumb li.attribute a:hover {
+  color: darkblue;
+  font-weight: normal;
+  text-transform: none;
+  background-color: gray;
+}
