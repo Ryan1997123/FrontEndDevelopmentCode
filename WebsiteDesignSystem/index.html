@@ -1,0 +1,193 @@
+<!--
+In this project, you’ll build a style guide/design system for your website. 
+Developers and designers use design systems in order to organize the look and feel of a website or web application. 
+Design systems help to document the visual vocabulary and reusable components of a large website.
+
+As your websites grow larger and more complex, having a consistent set of styles will help them stay cohesive and enjoyable for users! 
+It also helps as you start working with other developers, as you can have a consistent reference for how your website should be built.
+
+Your style guide/design system will include at least a section on colors, fonts, and specific text styles, but it can be extended to as many other areas as you’d like. 
+You can take a look at our basic example site for a taste of what you’ll be building (yours will be customized).
+-->
+
+
+<!--
+Your style guide should include a labeled section outlining the colors to be used.
+
+Each color should have:
+
+A name (you can come up with this name yourself)
+A box displaying the color itself.
+The CSS value used to create the color (in hex, rgb(), rgba(), hsl(), or hsla()).
+An optional description of how you intend to use the colors.
+*/
+-->
+
+<!--
+Your style should include a labeled section of the fonts to be used (we recommend importing fonts from Google Fonts).
+
+For each font, the goal is to to demonstrate the various styles that you intend to use (font weight, style, size, and text decorations). 
+To do this, you should include the following for every font:
+
+The font name
+A series of styles that you intend to use (for example, styles could include: plain, bold and italic, underlined).
+For each style, include a sentence or series of words to demonstrate the text style (our example site uses the quick brown fox…).
+Make sure to display each of the sections in the proper font, size, and style.
+-->
+
+
+
+<!--
+
+In addition to the list of possible fonts, your style guide should include a section for specific text styles for page elements. 
+For example, you could set main heading (<h1>) guidelines about text size, fonts, font styles, font weight, and more.
+
+    Include at least 3 element styles, and ideally as many as you’d like to use in future sites.
+    
+    For each page element, include:
+    
+    A page element name (for example, “Subheading”).
+    All style rules (for example, font-weight: 700).
+
+-->
+<!DOCTYPE html>
+<head>
+    <title>Website Design System Project</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kings&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <h1 class="centerHeader">My Website Style Guide</h1>
+
+    <!--Colors from: https://brandcolors.net/ (Instagram theme)-->
+    <div class="container"> 
+        <h2>Colors</h2> 
+    <div class="color-container">
+        <div class="color-panel blueish-purple">
+        <p id="color-label">Blueish purple</p>
+        <p id="color-hex">#405de6</p>
+    </div>
+        <div class="color-panel dark-purple">
+            <p id="color-label">Dark Purple</p>
+            <p id= "color-hex">#5851db</p>
+        </div>
+        <div class="color-panel purple">
+            <p id="color-label">Purple</p>
+            <p id="color-hex">#833ab4</p>
+        </div>
+        <div class="color-panel dark-pink">
+            <p id="color-label">Dark Pink</p>
+            <p id="color-hex">#c13584</p>
+        </div>
+
+        <div class="color-panel light-pink">
+            <p id="color-label">Light Pink</p>
+            <p id="color-hex">#e1306c</p>
+     </div>
+
+     <div class="color-panel red">
+        <p id="color-label">Red</p>
+        <p id="color-hex">#fd1d1d</p>
+    </div>
+
+
+    <div class="container">
+        <h2>Fonts</h2>
+        <!--First font:Comforter Brush: Regular 400
+            Second font:M PLUS Code Latin: Regular 400
+            Third font: Kings: Regular 400
+            Fourth font: PT Sans Narrow: Regular 400
+        -->
+    <div class="font-container">
+        <div class="font-panel">
+            <p class="font-label comforter-brush">Comforter Brush</p>
+            <p class="regular comforter-brush">The quick brown fox jumps over the lazy dog.</p>
+            <p class="bold comforter-brush">The quick brown fox jumps over the lazy dog.</p>
+            <p class="italic comforter-brush">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+
+        <div class="font-panel">
+            <p class="font-label m-plus-code-latin">M Plus Code Latin</p>
+            <p class="regular m-plus-code-latin">The quick brown fox jumps over the lazy dog.</p>
+            <p class="bold m-plus-code-latin">The quick brown fox jumps over the lazy dog.</p>
+            <p class="italic m-plus-code-latin">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+
+        <div class="font-panel">
+            <p class="font-label kings">Kings</p>
+            <p class="regular kings">The quick brown fox jumps over the lazy dog.</p>
+            <p class="bold kings">The quick brown fox jumps over the lazy dog.</p>
+            <p class="italic kings">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+
+        <div class="font-panel">
+            <p class="font-label pt-sans-narrow">PT Sans Narrow</p>
+            <p class="regular pt-sans-narrow">The quick brown fox jumps over the lazy dog.</p>
+            <p class="bold pt-sans-narrow">The quick brown fox jumps over the lazy dog.</p>
+            <p class="italic pt-sans-narrow">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+     </div>
+    </div>
+
+    <div class="container">
+        <h2>Text Styles</h2>
+        <div class="text-container">
+            <div class="text-panel">
+                <h1>H1: Main page heading</h1>
+                <ul>
+                    <li>Font-weight: 700 (bold)</li>
+                    <li>Font-size: 26px</li>
+                    <li>Font-family: Comforter Brush</li>
+                </ul>
+            </div>
+            <div class="text-panel">
+                <h2>H2: Subheading</h2>
+                <ul>
+                    <li>Font-weight: 500</li>
+                    <li>Font-size: 18px</li>
+                    <li>Font-family: M Plus Code Latin</li>
+                </ul>
+            </div>
+
+            <div class="text-panel">
+                <h3>H3: Subheading</h3>
+                <ul>
+                    <li>Font-weight: 500</li>
+                    <li>Font-size: 18px</li>
+                    <li>Font-family: Kings</li>
+                </ul>
+            </div>
+
+            <div class="text-panel">
+                <p>P: Paragraph text</p>
+                <ul>
+                    <li>Font-weight: 400(regular)</li>
+                    <li>Font-size: 14px</li>
+                    <li>Font-family: PT Sans Narrow</li>
+                </ul>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+</body>
+</html>
