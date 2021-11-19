@@ -6,7 +6,7 @@
 
 <h3>Project Goals:</h3>
 <p>In this project, I will be building your own basic design system for a website. In essence, I will be building a website to help you build MORE websites in the future! On my own site, I will collect all the colors, fonts, and some of the repeating styles.</p>
-
+<br>
 
 <h3>Preview of my Website Design System Page!</h3>
 <img src="websiteStyleGuide.JPG" alt="" width=550px height=500px>
