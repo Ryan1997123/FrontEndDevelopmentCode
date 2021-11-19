@@ -6,4 +6,4 @@
 
 
 <h3>Preview of my Website Design System Page!</h3>
-<img src="websiteStyleGuide.JPG" alt="" width=500px height=500px>
+<img src="websiteStyleGuide.JPG" alt="" width=550px height=500px>
