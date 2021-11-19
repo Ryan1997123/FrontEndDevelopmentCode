@@ -5,5 +5,5 @@
 <p>There are many possible ways to correctly fulfill all of these requirements, and I am expected to use the internet, Codecademy, and other resources when I encounter a problem .</p>
 
 
-<h3>Snapshot of my Website Design System Page!</h3>
+<h3>Preview of my Website Design System Page!</h3>
 <img src="websiteStyleGuide.JPG" alt="" width=500px height=500px>
