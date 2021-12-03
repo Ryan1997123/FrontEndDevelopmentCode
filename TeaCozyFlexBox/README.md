@@ -6,4 +6,6 @@ These are usually created by a designer as a source of instructions for a web de
  <p>This project assumes that I will be able to reproduce the basic HTML and CSS with little guidance.</p>
     
     
+    
+ <h3>Snapshot of the TeaCozy webpage</h3>
  <img src="teaCozySnapshot.JPG" alt="" height=400px width=auto>
