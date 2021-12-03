@@ -6,4 +6,4 @@ Codecademy will provide a design spec and image assets to help me along the way.
     This project assumes that I will be able to reproduce the basic HTML and CSS with little guidance.</p>
     
     
- <img src="teaCozySnapshot.JPG" alt="" height=500px width=500px>
+ <img src="teaCozySnapshot.JPG" alt="" height=400px width=auto>
