@@ -5,4 +5,4 @@
 <p>In order to complete this project, I must know how to lay out the structure of a grid’s rows and columns and place items within that grid using CSS.
 </p>
  
-<img src="StuffedAnimalTaskList.JPG" width=500px height=500px>
+<img src="StuffedAnimalTaskList.JPG" width=800px height=500px>
