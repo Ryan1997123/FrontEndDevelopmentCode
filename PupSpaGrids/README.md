@@ -1,16 +1,8 @@
-<h1>Practing CSS Grids with the PupSpa page from CodeCademy.</h1>
+<h1>CSS Grid Task Board page from CodeCademy.</h1>
 
-<p>
-Let’s practice what we’ve just learned about CSS Grid through building a classic, grid-based, responsive web page. Your friend has just opened a doggie daycare and grooming services shop, PupSpa. They would like a simple web page to let customers know about their services.
+<p> In this project, I will create a board of to-do items organized into columns. All of the HTML and most of the CSS have been written for me, but the grid property declarations have yet to be added.</p>
 
-  We currently have an HTML document styled with CSS, but every <b>div</b> appears in its own row. Let’s add some CSS grid properties to make parts of the site appear more cohesive. Some of the properties we’ll by using include:
-
-display<br>
-grid-template-rows<br>
-grid-template-columns<br>
-grid-gap<br>
-grid-column-start<br>
-grid-column-end<br>
-<br>We’ll also cover a couple of the shorthand properties of these as well, so let’s get started!<br>
+<p>In order to complete this project, I must know how to lay out the structure of a grid’s rows and columns and place items within that grid using CSS.
 </p>
  
+<img src="StuffedAnimalTaskList.JPEG" width=500px height=500px>
