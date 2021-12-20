@@ -13,4 +13,5 @@ grid-column-start<br>
 grid-column-end<br>
 <br>We’ll also cover a couple of the shorthand properties of these as well, so let’s get started!<br>
 </p>
- 
+
+<img src="https://content.codecademy.com/courses/learn-css-grid/project-i/images/dog.svg" height=500px width=500px>
